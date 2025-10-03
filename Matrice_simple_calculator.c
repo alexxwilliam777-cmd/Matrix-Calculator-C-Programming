@@ -1,4 +1,4 @@
-//This program takes two 3X3 matices and can either add them as an output.
+//This program takes two 3X3 matices and can add them as an output.
 
 #include<stdio.h>
 
